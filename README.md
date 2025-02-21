@@ -7,10 +7,10 @@ Nome: Luana Ferreira Marques
 Matricula: 891004
 
 ## Tela de inspeção com navegador
-<img src="imagem 1.png" alt"" width"360px">
-<img src="imagem 2.png" alt"" width"360px">
-<img src="imagem 3.png" alt"" width"360px">
+<img src="imagem 1.png" alt="" width="360px">
+<img src="imagem 2.png" alt="" width="360px">
+<img src="imagem 3.png" alt="" width="360px">
 
 ## Tela de projeto no Replit
-<img src="imagem 4.png" alt"" width"360px">
+<img src="imagem 4.png" alt="" width="360px">
 
